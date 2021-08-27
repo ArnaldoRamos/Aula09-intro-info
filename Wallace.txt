@@ -1,4 +1,8 @@
 Sou wallace Souza, tenho 29 anos, natural de Osasco e estudante de Desenvolvimento Full stack.
 
+<<<<<<< HEAD
 //Arnaldo
 O que você gosta de comer?
+=======
+//Com o que você quer trabalhar ??
+>>>>>>> 2d955a476e621dcc833d9cd9c8d7e191ccd1a77e
