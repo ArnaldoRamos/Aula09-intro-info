@@ -4,6 +4,8 @@ Sou estudante de ciência da computação
 <<<<<<< HEAD
 //Arnaldo
 O que você gosta de comer?
+Churrasco
+
 =======
 //Wallace
 Qual filme favorito?
