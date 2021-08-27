@@ -6,3 +6,6 @@ curto nas horas vagas ver filmes, series ou escutar musicas e não sou muito de 
 
 //Jehan 
 Qual a sua comida favorita ? 
+
+// Wallace
+Quais gêneros de filmes você prefere?
