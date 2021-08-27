@@ -1,5 +1,10 @@
 Tenho 23 anos, Moro em Brasilia. 
 Sou estudante de ciência da computação
 
+<<<<<<< HEAD
 //Arnaldo
 O que você gosta de comer?
+=======
+//Wallace
+Qual filme favorito?
+>>>>>>> 31e8d31907f1d54bb833a349109948f46ce993d4

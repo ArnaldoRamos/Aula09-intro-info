@@ -6,4 +6,10 @@ curto nas horas vagas ver filmes, series ou escutar musicas e não sou muito de 
 
 //Jehan 
 Qual a sua comida favorita ? 
+<<<<<<< HEAD
 Bolo de chocolate
+=======
+
+// Wallace
+Quais gêneros de filmes você prefere?
+>>>>>>> 31e8d31907f1d54bb833a349109948f46ce993d4
