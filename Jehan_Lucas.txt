@@ -7,4 +7,9 @@ O que você gosta de comer?
 =======
 //Wallace
 Qual filme favorito?
+<<<<<<< HEAD
 >>>>>>> 31e8d31907f1d54bb833a349109948f46ce993d4
+=======
+
+A Viagem
+>>>>>>> 1e8c1b315ef89f88ee821746c2fb78bb21de4cd1
