@@ -2,7 +2,10 @@ Sou wallace Souza, tenho 29 anos, natural de Osasco e estudante de Desenvolvimen
 
 //Arnaldo
 O que você gosta de comer?
+Feiojoada!
 
 
 
-//Com o que você quer trabalhar ??
+//Jehan
+Com o que você quer trabalhar ??
+Back-end.
