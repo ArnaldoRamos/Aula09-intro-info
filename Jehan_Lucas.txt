@@ -4,6 +4,7 @@ Sou estudante de ciência da computação
 <<<<<<< HEAD
 //Arnaldo
 O que você gosta de comer?
+<<<<<<< ours
 Churrasco
 
 =======
@@ -15,3 +16,9 @@ Qual filme favorito?
 
 A Viagem
 >>>>>>> 1e8c1b315ef89f88ee821746c2fb78bb21de4cd1
+=======
+=======
+//Wallace
+Qual filme favorito?
+>>>>>>> 31e8d31907f1d54bb833a349109948f46ce993d4
+>>>>>>> theirs
